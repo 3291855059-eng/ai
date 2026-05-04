@@ -33,6 +33,5 @@ When parsers break due to website structure changes:
 3. Update parser in `scripts/clipper.py`
 4. Test with `--test` flag
 
-## License
 
 

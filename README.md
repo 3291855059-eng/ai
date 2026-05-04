@@ -35,4 +35,4 @@ When parsers break due to website structure changes:
 
 ## License
 
-MIT
+

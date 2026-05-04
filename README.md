@@ -30,7 +30,7 @@ python3 scripts/clipper.py "<URL>"
 When parsers break due to website structure changes:
 1. Check `evolution-reports/` for failure details
 2. Analyze HTML sample
-3. Update parser in `scripts/clipper.py`
+3. Update parser in `clipper.py`
 4. Test with `--test` flag
 
 
